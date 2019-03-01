@@ -15,7 +15,7 @@ public class Git_test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("Hello from Hung");
+        System.out.print("Hello from Hung Thoi");
     }
     
 }
